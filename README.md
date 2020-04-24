@@ -52,9 +52,27 @@ Process
 Creating a Python script that analyzes the votes and calculates each of the following:
 
   •	Total number of votes cast
+  
   •	Complete list of candidates who received votes
+  
   •	Percentage of votes each candidate won
+  
   •	Total number of votes each candidate won
+  
   •	Winner of the election based on popular vote
 
+Election Results
+--------------------
+Total Votes: 3521001
+--------------------
+Khan: 63.000% (2218231) 
 
+Correy: 20.000% (704200) 
+
+Li: 14.000% (492940) 
+
+O'Tooley: 3.000% (105630) 
+
+-----------------------------
+Winner: Khan
+-----------------------------
